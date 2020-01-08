@@ -4,6 +4,8 @@ You can use the [editor on GitHub](https://github.com/francoa7/tutorial/edit/mas
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+To visit the project website, click the following link https://francoa7.github.io/tutorial/
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
