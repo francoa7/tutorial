@@ -1,10 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome to my learning project
 
-You can use the [editor on GitHub](https://github.com/francoa7/tutorial/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+This is a simple project in wich I try new things and learn Git and GitHub features, and also practice programming.
 To visit the project website, click the following link https://francoa7.github.io/tutorial/
+
+The next ones are some personal notes to remember how markdown works.
 
 ### Markdown
 
